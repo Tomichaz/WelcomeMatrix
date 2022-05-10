@@ -9,13 +9,13 @@ h1{
   font-family: Courier;
   color: red;
   font-weight: lighter;
-  font-size: 10px;
+  font-size: 60px;
 }
 h2 {
   font-family: Courier;
-  color: pink;
+  color: darkred;
   font-weight: lighter;
-  font-size: 8px;
+  font-size: 45px;
 }
 a {
   color: yellow;
